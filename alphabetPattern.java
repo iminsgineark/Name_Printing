@@ -1,7 +1,7 @@
 
 package com.JAVA_DSA;
 
-class alphabetPattern
+class NamePattern
 {
     static int height = 5;
     static int width = (2 * height) - 1;
